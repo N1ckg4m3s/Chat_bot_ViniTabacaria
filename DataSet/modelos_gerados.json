@@ -1,5 +1,49 @@
 [
     {
+        "input": "essencia?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "carvao?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "aluminio?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "rosh?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "vaso?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "borracha?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "mangueira?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "kit mangueira?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "narguile?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "corpo?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "prato?",
+        "output": "Verificar(produto=prato,Marca=,sabor=)"
+    },
+    {
         "input": "Tem essencia?",
         "output": "Verificar(produto=essencia,Marca=,sabor=)"
     },
@@ -30,6 +74,238 @@
     {
         "input": "Tem kit mangueira?",
         "output": "Verificar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem narguile?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem corpo?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem prato?",
+        "output": "Verificar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem essencia disponível?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem carvao disponível?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem aluminio disponível?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem rosh disponível?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem vaso disponível?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem borracha disponível?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem mangueira disponível?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem kit mangueira disponível?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem narguile disponível?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem corpo disponível?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Tem prato disponível?",
+        "output": "Verificar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm essencia?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm carvao?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm aluminio?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm rosh?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm vaso?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm borracha?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm mangueira?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm kit mangueira?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm narguile?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm corpo?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês têm prato?",
+        "output": "Verificar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais essencia vocês têm?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais carvao vocês têm?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais aluminio vocês têm?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais rosh vocês têm?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais vaso vocês têm?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais borracha vocês têm?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais mangueira vocês têm?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais kit mangueira vocês têm?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais narguile vocês têm?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais corpo vocês têm?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Quais prato vocês têm?",
+        "output": "Verificar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar essencia com vocês?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar carvao com vocês?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar aluminio com vocês?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar rosh com vocês?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar vaso com vocês?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar borracha com vocês?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar mangueira com vocês?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar kit mangueira com vocês?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar narguile com vocês?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar corpo com vocês?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Consigo encontrar prato com vocês?",
+        "output": "Verificar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com essencia?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com carvao?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com aluminio?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com rosh?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com vaso?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com borracha?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com mangueira?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com kit mangueira?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com narguile?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com corpo?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com prato?",
+        "output": "Verificar(produto=prato,Marca=,sabor=)"
     },
     {
         "input": "Tem haze?",
@@ -76,6 +352,182 @@
         "output": "Verificar(produto=,Marca=zomo,sabor=)"
     },
     {
+        "input": "Vocês trabalham com haze?",
+        "output": "Verificar(produto=,Marca=haze,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com ignite?",
+        "output": "Verificar(produto=,Marca=ignite,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com adalya?",
+        "output": "Verificar(produto=,Marca=adalya,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com smyrna?",
+        "output": "Verificar(produto=,Marca=smyrna,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com luky?",
+        "output": "Verificar(produto=,Marca=luky,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com magic?",
+        "output": "Verificar(produto=,Marca=magic,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com onix?",
+        "output": "Verificar(produto=,Marca=onix,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com ziggy?",
+        "output": "Verificar(produto=,Marca=ziggy,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com nay?",
+        "output": "Verificar(produto=,Marca=nay,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com pimp?",
+        "output": "Verificar(produto=,Marca=pimp,sabor=)"
+    },
+    {
+        "input": "Vocês trabalham com zomo?",
+        "output": "Verificar(produto=,Marca=zomo,sabor=)"
+    },
+    {
+        "input": "Tem produtos da haze?",
+        "output": "Verificar(produto=,Marca=haze,sabor=)"
+    },
+    {
+        "input": "Tem produtos da ignite?",
+        "output": "Verificar(produto=,Marca=ignite,sabor=)"
+    },
+    {
+        "input": "Tem produtos da adalya?",
+        "output": "Verificar(produto=,Marca=adalya,sabor=)"
+    },
+    {
+        "input": "Tem produtos da smyrna?",
+        "output": "Verificar(produto=,Marca=smyrna,sabor=)"
+    },
+    {
+        "input": "Tem produtos da luky?",
+        "output": "Verificar(produto=,Marca=luky,sabor=)"
+    },
+    {
+        "input": "Tem produtos da magic?",
+        "output": "Verificar(produto=,Marca=magic,sabor=)"
+    },
+    {
+        "input": "Tem produtos da onix?",
+        "output": "Verificar(produto=,Marca=onix,sabor=)"
+    },
+    {
+        "input": "Tem produtos da ziggy?",
+        "output": "Verificar(produto=,Marca=ziggy,sabor=)"
+    },
+    {
+        "input": "Tem produtos da nay?",
+        "output": "Verificar(produto=,Marca=nay,sabor=)"
+    },
+    {
+        "input": "Tem produtos da pimp?",
+        "output": "Verificar(produto=,Marca=pimp,sabor=)"
+    },
+    {
+        "input": "Tem produtos da zomo?",
+        "output": "Verificar(produto=,Marca=zomo,sabor=)"
+    },
+    {
+        "input": "Achei haze aqui, é possível?",
+        "output": "Verificar(produto=,Marca=haze,sabor=)"
+    },
+    {
+        "input": "Achei ignite aqui, é possível?",
+        "output": "Verificar(produto=,Marca=ignite,sabor=)"
+    },
+    {
+        "input": "Achei adalya aqui, é possível?",
+        "output": "Verificar(produto=,Marca=adalya,sabor=)"
+    },
+    {
+        "input": "Achei smyrna aqui, é possível?",
+        "output": "Verificar(produto=,Marca=smyrna,sabor=)"
+    },
+    {
+        "input": "Achei luky aqui, é possível?",
+        "output": "Verificar(produto=,Marca=luky,sabor=)"
+    },
+    {
+        "input": "Achei magic aqui, é possível?",
+        "output": "Verificar(produto=,Marca=magic,sabor=)"
+    },
+    {
+        "input": "Achei onix aqui, é possível?",
+        "output": "Verificar(produto=,Marca=onix,sabor=)"
+    },
+    {
+        "input": "Achei ziggy aqui, é possível?",
+        "output": "Verificar(produto=,Marca=ziggy,sabor=)"
+    },
+    {
+        "input": "Achei nay aqui, é possível?",
+        "output": "Verificar(produto=,Marca=nay,sabor=)"
+    },
+    {
+        "input": "Achei pimp aqui, é possível?",
+        "output": "Verificar(produto=,Marca=pimp,sabor=)"
+    },
+    {
+        "input": "Achei zomo aqui, é possível?",
+        "output": "Verificar(produto=,Marca=zomo,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca haze?",
+        "output": "Verificar(produto=,Marca=haze,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca ignite?",
+        "output": "Verificar(produto=,Marca=ignite,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca adalya?",
+        "output": "Verificar(produto=,Marca=adalya,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca smyrna?",
+        "output": "Verificar(produto=,Marca=smyrna,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca luky?",
+        "output": "Verificar(produto=,Marca=luky,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca magic?",
+        "output": "Verificar(produto=,Marca=magic,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca onix?",
+        "output": "Verificar(produto=,Marca=onix,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca ziggy?",
+        "output": "Verificar(produto=,Marca=ziggy,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca nay?",
+        "output": "Verificar(produto=,Marca=nay,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca pimp?",
+        "output": "Verificar(produto=,Marca=pimp,sabor=)"
+    },
+    {
+        "input": "Qual a disponibilidade da marca zomo?",
+        "output": "Verificar(produto=,Marca=zomo,sabor=)"
+    },
+    {
         "input": "Tem essencia [Sabor]?",
         "output": "Verificar(produto=essencia,Marca=,sabor=[Sabor])"
     },
@@ -106,6 +558,18 @@
     {
         "input": "Tem kit mangueira [Sabor]?",
         "output": "Verificar(produto=kit mangueira,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Tem narguile [Sabor]?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Tem corpo [Sabor]?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Tem prato [Sabor]?",
+        "output": "Verificar(produto=prato,Marca=,sabor=[Sabor])"
     },
     {
         "input": "Tem [Produto] uva?",
@@ -156,96 +620,372 @@
         "output": "Verificar(produto=[Produto],Marca=,sabor=tut)"
     },
     {
-        "input": "Tem haze [Sabor]?",
-        "output": "Verificar(produto=,Marca=haze,sabor=[Sabor])"
+        "input": "Tem essencia de [Sabor]?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem ignite [Sabor]?",
-        "output": "Verificar(produto=,Marca=ignite,sabor=[Sabor])"
+        "input": "Tem carvao de [Sabor]?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem adalya [Sabor]?",
-        "output": "Verificar(produto=,Marca=adalya,sabor=[Sabor])"
+        "input": "Tem aluminio de [Sabor]?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem smyrna [Sabor]?",
-        "output": "Verificar(produto=,Marca=smyrna,sabor=[Sabor])"
+        "input": "Tem rosh de [Sabor]?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem luky [Sabor]?",
-        "output": "Verificar(produto=,Marca=luky,sabor=[Sabor])"
+        "input": "Tem vaso de [Sabor]?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem magic [Sabor]?",
-        "output": "Verificar(produto=,Marca=magic,sabor=[Sabor])"
+        "input": "Tem borracha de [Sabor]?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem onix [Sabor]?",
-        "output": "Verificar(produto=,Marca=onix,sabor=[Sabor])"
+        "input": "Tem mangueira de [Sabor]?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem ziggy [Sabor]?",
-        "output": "Verificar(produto=,Marca=ziggy,sabor=[Sabor])"
+        "input": "Tem kit mangueira de [Sabor]?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem nay [Sabor]?",
-        "output": "Verificar(produto=,Marca=nay,sabor=[Sabor])"
+        "input": "Tem narguile de [Sabor]?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem pimp [Sabor]?",
-        "output": "Verificar(produto=,Marca=pimp,sabor=[Sabor])"
+        "input": "Tem corpo de [Sabor]?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem zomo [Sabor]?",
-        "output": "Verificar(produto=,Marca=zomo,sabor=[Sabor])"
+        "input": "Tem prato de [Sabor]?",
+        "output": "Verificar(produto=prato,Marca=,sabor=[Sabor])"
     },
     {
-        "input": "Tem [Marca] uva?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=uva)"
+        "input": "Tem [Produto] de uva?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=uva)"
     },
     {
-        "input": "Tem [Marca] cereja?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=cereja)"
+        "input": "Tem [Produto] de cereja?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=cereja)"
     },
     {
-        "input": "Tem [Marca] banaan?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=banaan)"
+        "input": "Tem [Produto] de banaan?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=banaan)"
     },
     {
-        "input": "Tem [Marca] tut-fruit?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=tut-fruit)"
+        "input": "Tem [Produto] de tut-fruit?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=tut-fruit)"
     },
     {
-        "input": "Tem [Marca] maca?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=maca)"
+        "input": "Tem [Produto] de maca?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=maca)"
     },
     {
-        "input": "Tem [Marca] pacoca?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=pacoca)"
+        "input": "Tem [Produto] de pacoca?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=pacoca)"
     },
     {
-        "input": "Tem [Marca] melancia?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=melancia)"
+        "input": "Tem [Produto] de melancia?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=melancia)"
     },
     {
-        "input": "Tem [Marca] limao?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=limao)"
+        "input": "Tem [Produto] de limao?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=limao)"
     },
     {
-        "input": "Tem [Marca] 7belo?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=7belo)"
+        "input": "Tem [Produto] de 7belo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=7belo)"
     },
     {
-        "input": "Tem [Marca] berry?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=berry)"
+        "input": "Tem [Produto] de berry?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=berry)"
     },
     {
-        "input": "Tem [Marca] fruit?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=fruit)"
+        "input": "Tem [Produto] de fruit?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=fruit)"
     },
     {
-        "input": "Tem [Marca] tut?",
-        "output": "Verificar(produto=,Marca=[Marca],sabor=tut)"
+        "input": "Tem [Produto] de tut?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=tut)"
+    },
+    {
+        "input": "Vocês vendem essencia com sabor de [Sabor]?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem carvao com sabor de [Sabor]?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem aluminio com sabor de [Sabor]?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem rosh com sabor de [Sabor]?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem vaso com sabor de [Sabor]?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem borracha com sabor de [Sabor]?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem mangueira com sabor de [Sabor]?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem kit mangueira com sabor de [Sabor]?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem narguile com sabor de [Sabor]?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem corpo com sabor de [Sabor]?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem prato com sabor de [Sabor]?",
+        "output": "Verificar(produto=prato,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de uva?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=uva)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de cereja?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=cereja)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de banaan?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=banaan)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de tut-fruit?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=tut-fruit)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de maca?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=maca)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de pacoca?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=pacoca)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de melancia?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=melancia)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de limao?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=limao)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de 7belo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=7belo)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de berry?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=berry)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de fruit?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=fruit)"
+    },
+    {
+        "input": "Vocês vendem [Produto] com sabor de tut?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=tut)"
+    },
+    {
+        "input": "Achei que vocês tinham essencia sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham carvao sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham aluminio sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham rosh sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham vaso sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham borracha sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham mangueira sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham kit mangueira sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham narguile sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham corpo sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham prato sabor [Sabor], tem mesmo?",
+        "output": "Verificar(produto=prato,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor uva, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=uva)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor cereja, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=cereja)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor banaan, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=banaan)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor tut-fruit, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=tut-fruit)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor maca, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=maca)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor pacoca, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=pacoca)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor melancia, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=melancia)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor limao, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=limao)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor 7belo, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=7belo)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor berry, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=berry)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor fruit, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=fruit)"
+    },
+    {
+        "input": "Achei que vocês tinham [Produto] sabor tut, tem mesmo?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=tut)"
+    },
+    {
+        "input": "Posso encontrar essencia com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=essencia,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar carvao com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=carvao,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar aluminio com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=aluminio,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar rosh com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=rosh,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar vaso com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=vaso,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar borracha com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=borracha,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar mangueira com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=mangueira,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar kit mangueira com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=kit mangueira,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar narguile com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=narguile,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar corpo com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=corpo,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar prato com o sabor [Sabor] aí?",
+        "output": "Verificar(produto=prato,Marca=,sabor=[Sabor])"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor uva aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=uva)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor cereja aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=cereja)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor banaan aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=banaan)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor tut-fruit aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=tut-fruit)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor maca aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=maca)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor pacoca aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=pacoca)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor melancia aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=melancia)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor limao aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=limao)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor 7belo aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=7belo)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor berry aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=berry)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor fruit aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=fruit)"
+    },
+    {
+        "input": "Posso encontrar [Produto] com o sabor tut aí?",
+        "output": "Verificar(produto=[Produto],Marca=,sabor=tut)"
     },
     {
         "input": "Tem essencia [Marca]?",
@@ -278,6 +1018,18 @@
     {
         "input": "Tem kit mangueira [Marca]?",
         "output": "Verificar(produto=kit mangueira,Marca=[Marca],sabor=)"
+    },
+    {
+        "input": "Tem narguile [Marca]?",
+        "output": "Verificar(produto=narguile,Marca=[Marca],sabor=)"
+    },
+    {
+        "input": "Tem corpo [Marca]?",
+        "output": "Verificar(produto=corpo,Marca=[Marca],sabor=)"
+    },
+    {
+        "input": "Tem prato [Marca]?",
+        "output": "Verificar(produto=prato,Marca=[Marca],sabor=)"
     },
     {
         "input": "Tem [Produto] haze?",
@@ -324,576 +1076,224 @@
         "output": "Verificar(produto=[Produto],Marca=zomo,sabor=)"
     },
     {
-        "input": "Tem essencia [Sabor] [Marca]?",
-        "output": "Verificar(produto=essencia,Marca=[Marca],sabor=[Sabor])"
+        "input": "Vocês vendem essencia da marca [Marca]?",
+        "output": "Verificar(produto=essencia,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem carvao [Sabor] [Marca]?",
-        "output": "Verificar(produto=carvao,Marca=[Marca],sabor=[Sabor])"
+        "input": "Vocês vendem carvao da marca [Marca]?",
+        "output": "Verificar(produto=carvao,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem aluminio [Sabor] [Marca]?",
-        "output": "Verificar(produto=aluminio,Marca=[Marca],sabor=[Sabor])"
+        "input": "Vocês vendem aluminio da marca [Marca]?",
+        "output": "Verificar(produto=aluminio,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem rosh [Sabor] [Marca]?",
-        "output": "Verificar(produto=rosh,Marca=[Marca],sabor=[Sabor])"
+        "input": "Vocês vendem rosh da marca [Marca]?",
+        "output": "Verificar(produto=rosh,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem vaso [Sabor] [Marca]?",
-        "output": "Verificar(produto=vaso,Marca=[Marca],sabor=[Sabor])"
+        "input": "Vocês vendem vaso da marca [Marca]?",
+        "output": "Verificar(produto=vaso,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem borracha [Sabor] [Marca]?",
-        "output": "Verificar(produto=borracha,Marca=[Marca],sabor=[Sabor])"
+        "input": "Vocês vendem borracha da marca [Marca]?",
+        "output": "Verificar(produto=borracha,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem mangueira [Sabor] [Marca]?",
-        "output": "Verificar(produto=mangueira,Marca=[Marca],sabor=[Sabor])"
+        "input": "Vocês vendem mangueira da marca [Marca]?",
+        "output": "Verificar(produto=mangueira,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem kit mangueira [Sabor] [Marca]?",
-        "output": "Verificar(produto=kit mangueira,Marca=[Marca],sabor=[Sabor])"
+        "input": "Vocês vendem kit mangueira da marca [Marca]?",
+        "output": "Verificar(produto=kit mangueira,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] haze?",
-        "output": "Verificar(produto=[Produto],Marca=haze,sabor=[Sabor])"
+        "input": "Vocês vendem narguile da marca [Marca]?",
+        "output": "Verificar(produto=narguile,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] ignite?",
-        "output": "Verificar(produto=[Produto],Marca=ignite,sabor=[Sabor])"
+        "input": "Vocês vendem corpo da marca [Marca]?",
+        "output": "Verificar(produto=corpo,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] adalya?",
-        "output": "Verificar(produto=[Produto],Marca=adalya,sabor=[Sabor])"
+        "input": "Vocês vendem prato da marca [Marca]?",
+        "output": "Verificar(produto=prato,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] smyrna?",
-        "output": "Verificar(produto=[Produto],Marca=smyrna,sabor=[Sabor])"
+        "input": "Vocês vendem [Produto] da marca haze?",
+        "output": "Verificar(produto=[Produto],Marca=haze,sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] luky?",
-        "output": "Verificar(produto=[Produto],Marca=luky,sabor=[Sabor])"
+        "input": "Vocês vendem [Produto] da marca ignite?",
+        "output": "Verificar(produto=[Produto],Marca=ignite,sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] magic?",
-        "output": "Verificar(produto=[Produto],Marca=magic,sabor=[Sabor])"
+        "input": "Vocês vendem [Produto] da marca adalya?",
+        "output": "Verificar(produto=[Produto],Marca=adalya,sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] onix?",
-        "output": "Verificar(produto=[Produto],Marca=onix,sabor=[Sabor])"
+        "input": "Vocês vendem [Produto] da marca smyrna?",
+        "output": "Verificar(produto=[Produto],Marca=smyrna,sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] ziggy?",
-        "output": "Verificar(produto=[Produto],Marca=ziggy,sabor=[Sabor])"
+        "input": "Vocês vendem [Produto] da marca luky?",
+        "output": "Verificar(produto=[Produto],Marca=luky,sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] nay?",
-        "output": "Verificar(produto=[Produto],Marca=nay,sabor=[Sabor])"
+        "input": "Vocês vendem [Produto] da marca magic?",
+        "output": "Verificar(produto=[Produto],Marca=magic,sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] pimp?",
-        "output": "Verificar(produto=[Produto],Marca=pimp,sabor=[Sabor])"
+        "input": "Vocês vendem [Produto] da marca onix?",
+        "output": "Verificar(produto=[Produto],Marca=onix,sabor=)"
     },
     {
-        "input": "Tem [Produto] [Sabor] zomo?",
-        "output": "Verificar(produto=[Produto],Marca=zomo,sabor=[Sabor])"
+        "input": "Vocês vendem [Produto] da marca ziggy?",
+        "output": "Verificar(produto=[Produto],Marca=ziggy,sabor=)"
     },
     {
-        "input": "Tem [Produto] uva [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=uva)"
+        "input": "Vocês vendem [Produto] da marca nay?",
+        "output": "Verificar(produto=[Produto],Marca=nay,sabor=)"
     },
     {
-        "input": "Tem [Produto] cereja [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=cereja)"
+        "input": "Vocês vendem [Produto] da marca pimp?",
+        "output": "Verificar(produto=[Produto],Marca=pimp,sabor=)"
     },
     {
-        "input": "Tem [Produto] banaan [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=banaan)"
+        "input": "Vocês vendem [Produto] da marca zomo?",
+        "output": "Verificar(produto=[Produto],Marca=zomo,sabor=)"
     },
     {
-        "input": "Tem [Produto] tut-fruit [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut-fruit)"
+        "input": "Achei essencia de [Marca], vocês têm?",
+        "output": "Verificar(produto=essencia,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] maca [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=maca)"
+        "input": "Achei carvao de [Marca], vocês têm?",
+        "output": "Verificar(produto=carvao,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] pacoca [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=pacoca)"
+        "input": "Achei aluminio de [Marca], vocês têm?",
+        "output": "Verificar(produto=aluminio,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] melancia [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=melancia)"
+        "input": "Achei rosh de [Marca], vocês têm?",
+        "output": "Verificar(produto=rosh,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] limao [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=limao)"
+        "input": "Achei vaso de [Marca], vocês têm?",
+        "output": "Verificar(produto=vaso,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] 7belo [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=7belo)"
+        "input": "Achei borracha de [Marca], vocês têm?",
+        "output": "Verificar(produto=borracha,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] berry [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=berry)"
+        "input": "Achei mangueira de [Marca], vocês têm?",
+        "output": "Verificar(produto=mangueira,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] fruit [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=fruit)"
+        "input": "Achei kit mangueira de [Marca], vocês têm?",
+        "output": "Verificar(produto=kit mangueira,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Tem [Produto] tut [Marca]?",
-        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut)"
+        "input": "Achei narguile de [Marca], vocês têm?",
+        "output": "Verificar(produto=narguile,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Me manda uma essencia",
-        "output": "Adicionar(produto=essencia,Marca=,sabor=)"
+        "input": "Achei corpo de [Marca], vocês têm?",
+        "output": "Verificar(produto=corpo,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Me manda uma carvao",
-        "output": "Adicionar(produto=carvao,Marca=,sabor=)"
+        "input": "Achei prato de [Marca], vocês têm?",
+        "output": "Verificar(produto=prato,Marca=[Marca],sabor=)"
     },
     {
-        "input": "Me manda uma aluminio",
-        "output": "Adicionar(produto=aluminio,Marca=,sabor=)"
+        "input": "Achei [Produto] de haze, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=haze,sabor=)"
     },
     {
-        "input": "Me manda uma rosh",
-        "output": "Adicionar(produto=rosh,Marca=,sabor=)"
+        "input": "Achei [Produto] de ignite, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=ignite,sabor=)"
     },
     {
-        "input": "Me manda uma vaso",
-        "output": "Adicionar(produto=vaso,Marca=,sabor=)"
+        "input": "Achei [Produto] de adalya, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=adalya,sabor=)"
     },
     {
-        "input": "Me manda uma borracha",
-        "output": "Adicionar(produto=borracha,Marca=,sabor=)"
+        "input": "Achei [Produto] de smyrna, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=smyrna,sabor=)"
     },
     {
-        "input": "Me manda uma mangueira",
-        "output": "Adicionar(produto=mangueira,Marca=,sabor=)"
+        "input": "Achei [Produto] de luky, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=luky,sabor=)"
     },
     {
-        "input": "Me manda uma kit mangueira",
-        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=)"
+        "input": "Achei [Produto] de magic, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=magic,sabor=)"
     },
     {
-        "input": "Me manda uma haze",
-        "output": "Adicionar(produto=,Marca=haze,sabor=)"
+        "input": "Achei [Produto] de onix, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=onix,sabor=)"
     },
     {
-        "input": "Me manda uma ignite",
-        "output": "Adicionar(produto=,Marca=ignite,sabor=)"
+        "input": "Achei [Produto] de ziggy, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=ziggy,sabor=)"
     },
     {
-        "input": "Me manda uma adalya",
-        "output": "Adicionar(produto=,Marca=adalya,sabor=)"
+        "input": "Achei [Produto] de nay, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=nay,sabor=)"
     },
     {
-        "input": "Me manda uma smyrna",
-        "output": "Adicionar(produto=,Marca=smyrna,sabor=)"
+        "input": "Achei [Produto] de pimp, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=pimp,sabor=)"
     },
     {
-        "input": "Me manda uma luky",
-        "output": "Adicionar(produto=,Marca=luky,sabor=)"
+        "input": "Achei [Produto] de zomo, vocês têm?",
+        "output": "Verificar(produto=[Produto],Marca=zomo,sabor=)"
     },
     {
-        "input": "Me manda uma magic",
-        "output": "Adicionar(produto=,Marca=magic,sabor=)"
+        "input": "Tem haze no estoque?",
+        "output": "Verificar(produto=,Marca=haze,sabor=)"
     },
     {
-        "input": "Me manda uma onix",
-        "output": "Adicionar(produto=,Marca=onix,sabor=)"
+        "input": "Tem ignite no estoque?",
+        "output": "Verificar(produto=,Marca=ignite,sabor=)"
     },
     {
-        "input": "Me manda uma ziggy",
-        "output": "Adicionar(produto=,Marca=ziggy,sabor=)"
+        "input": "Tem adalya no estoque?",
+        "output": "Verificar(produto=,Marca=adalya,sabor=)"
     },
     {
-        "input": "Me manda uma nay",
-        "output": "Adicionar(produto=,Marca=nay,sabor=)"
+        "input": "Tem smyrna no estoque?",
+        "output": "Verificar(produto=,Marca=smyrna,sabor=)"
     },
     {
-        "input": "Me manda uma pimp",
-        "output": "Adicionar(produto=,Marca=pimp,sabor=)"
+        "input": "Tem luky no estoque?",
+        "output": "Verificar(produto=,Marca=luky,sabor=)"
     },
     {
-        "input": "Me manda uma zomo",
-        "output": "Adicionar(produto=,Marca=zomo,sabor=)"
+        "input": "Tem magic no estoque?",
+        "output": "Verificar(produto=,Marca=magic,sabor=)"
     },
     {
-        "input": "Me manda essencia [Sabor]",
-        "output": "Adicionar(produto=essencia,Marca=,sabor=[Sabor])"
+        "input": "Tem onix no estoque?",
+        "output": "Verificar(produto=,Marca=onix,sabor=)"
     },
     {
-        "input": "Me manda carvao [Sabor]",
-        "output": "Adicionar(produto=carvao,Marca=,sabor=[Sabor])"
+        "input": "Tem ziggy no estoque?",
+        "output": "Verificar(produto=,Marca=ziggy,sabor=)"
     },
     {
-        "input": "Me manda aluminio [Sabor]",
-        "output": "Adicionar(produto=aluminio,Marca=,sabor=[Sabor])"
+        "input": "Tem nay no estoque?",
+        "output": "Verificar(produto=,Marca=nay,sabor=)"
     },
     {
-        "input": "Me manda rosh [Sabor]",
-        "output": "Adicionar(produto=rosh,Marca=,sabor=[Sabor])"
+        "input": "Tem pimp no estoque?",
+        "output": "Verificar(produto=,Marca=pimp,sabor=)"
     },
     {
-        "input": "Me manda vaso [Sabor]",
-        "output": "Adicionar(produto=vaso,Marca=,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda borracha [Sabor]",
-        "output": "Adicionar(produto=borracha,Marca=,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda mangueira [Sabor]",
-        "output": "Adicionar(produto=mangueira,Marca=,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda kit mangueira [Sabor]",
-        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] uva",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=uva)"
-    },
-    {
-        "input": "Me manda [Produto] cereja",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=cereja)"
-    },
-    {
-        "input": "Me manda [Produto] banaan",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=banaan)"
-    },
-    {
-        "input": "Me manda [Produto] tut-fruit",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=tut-fruit)"
-    },
-    {
-        "input": "Me manda [Produto] maca",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=maca)"
-    },
-    {
-        "input": "Me manda [Produto] pacoca",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=pacoca)"
-    },
-    {
-        "input": "Me manda [Produto] melancia",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=melancia)"
-    },
-    {
-        "input": "Me manda [Produto] limao",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=limao)"
-    },
-    {
-        "input": "Me manda [Produto] 7belo",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=7belo)"
-    },
-    {
-        "input": "Me manda [Produto] berry",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=berry)"
-    },
-    {
-        "input": "Me manda [Produto] fruit",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=fruit)"
-    },
-    {
-        "input": "Me manda [Produto] tut",
-        "output": "Adicionar(produto=[Produto],Marca=,sabor=tut)"
-    },
-    {
-        "input": "Me manda haze [Sabor]",
-        "output": "Adicionar(produto=,Marca=haze,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda ignite [Sabor]",
-        "output": "Adicionar(produto=,Marca=ignite,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda adalya [Sabor]",
-        "output": "Adicionar(produto=,Marca=adalya,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda smyrna [Sabor]",
-        "output": "Adicionar(produto=,Marca=smyrna,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda luky [Sabor]",
-        "output": "Adicionar(produto=,Marca=luky,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda magic [Sabor]",
-        "output": "Adicionar(produto=,Marca=magic,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda onix [Sabor]",
-        "output": "Adicionar(produto=,Marca=onix,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda ziggy [Sabor]",
-        "output": "Adicionar(produto=,Marca=ziggy,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda nay [Sabor]",
-        "output": "Adicionar(produto=,Marca=nay,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda pimp [Sabor]",
-        "output": "Adicionar(produto=,Marca=pimp,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda zomo [Sabor]",
-        "output": "Adicionar(produto=,Marca=zomo,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Marca] uva",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=uva)"
-    },
-    {
-        "input": "Me manda [Marca] cereja",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=cereja)"
-    },
-    {
-        "input": "Me manda [Marca] banaan",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=banaan)"
-    },
-    {
-        "input": "Me manda [Marca] tut-fruit",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=tut-fruit)"
-    },
-    {
-        "input": "Me manda [Marca] maca",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=maca)"
-    },
-    {
-        "input": "Me manda [Marca] pacoca",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=pacoca)"
-    },
-    {
-        "input": "Me manda [Marca] melancia",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=melancia)"
-    },
-    {
-        "input": "Me manda [Marca] limao",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=limao)"
-    },
-    {
-        "input": "Me manda [Marca] 7belo",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=7belo)"
-    },
-    {
-        "input": "Me manda [Marca] berry",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=berry)"
-    },
-    {
-        "input": "Me manda [Marca] fruit",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=fruit)"
-    },
-    {
-        "input": "Me manda [Marca] tut",
-        "output": "Adicionar(produto=,Marca=[Marca],sabor=tut)"
-    },
-    {
-        "input": "Me manda essencia [Marca]",
-        "output": "Adicionar(produto=essencia,Marca=[Marca],sabor=)"
-    },
-    {
-        "input": "Me manda carvao [Marca]",
-        "output": "Adicionar(produto=carvao,Marca=[Marca],sabor=)"
-    },
-    {
-        "input": "Me manda aluminio [Marca]",
-        "output": "Adicionar(produto=aluminio,Marca=[Marca],sabor=)"
-    },
-    {
-        "input": "Me manda rosh [Marca]",
-        "output": "Adicionar(produto=rosh,Marca=[Marca],sabor=)"
-    },
-    {
-        "input": "Me manda vaso [Marca]",
-        "output": "Adicionar(produto=vaso,Marca=[Marca],sabor=)"
-    },
-    {
-        "input": "Me manda borracha [Marca]",
-        "output": "Adicionar(produto=borracha,Marca=[Marca],sabor=)"
-    },
-    {
-        "input": "Me manda mangueira [Marca]",
-        "output": "Adicionar(produto=mangueira,Marca=[Marca],sabor=)"
-    },
-    {
-        "input": "Me manda kit mangueira [Marca]",
-        "output": "Adicionar(produto=kit mangueira,Marca=[Marca],sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] haze",
-        "output": "Adicionar(produto=[Produto],Marca=haze,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] ignite",
-        "output": "Adicionar(produto=[Produto],Marca=ignite,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] adalya",
-        "output": "Adicionar(produto=[Produto],Marca=adalya,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] smyrna",
-        "output": "Adicionar(produto=[Produto],Marca=smyrna,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] luky",
-        "output": "Adicionar(produto=[Produto],Marca=luky,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] magic",
-        "output": "Adicionar(produto=[Produto],Marca=magic,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] onix",
-        "output": "Adicionar(produto=[Produto],Marca=onix,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] ziggy",
-        "output": "Adicionar(produto=[Produto],Marca=ziggy,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] nay",
-        "output": "Adicionar(produto=[Produto],Marca=nay,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] pimp",
-        "output": "Adicionar(produto=[Produto],Marca=pimp,sabor=)"
-    },
-    {
-        "input": "Me manda [Produto] zomo",
-        "output": "Adicionar(produto=[Produto],Marca=zomo,sabor=)"
-    },
-    {
-        "input": "Me manda essencia [Sabor] [Marca]",
-        "output": "Adicionar(produto=essencia,Marca=[Marca],sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda carvao [Sabor] [Marca]",
-        "output": "Adicionar(produto=carvao,Marca=[Marca],sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda aluminio [Sabor] [Marca]",
-        "output": "Adicionar(produto=aluminio,Marca=[Marca],sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda rosh [Sabor] [Marca]",
-        "output": "Adicionar(produto=rosh,Marca=[Marca],sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda vaso [Sabor] [Marca]",
-        "output": "Adicionar(produto=vaso,Marca=[Marca],sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda borracha [Sabor] [Marca]",
-        "output": "Adicionar(produto=borracha,Marca=[Marca],sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda mangueira [Sabor] [Marca]",
-        "output": "Adicionar(produto=mangueira,Marca=[Marca],sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda kit mangueira [Sabor] [Marca]",
-        "output": "Adicionar(produto=kit mangueira,Marca=[Marca],sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] haze",
-        "output": "Adicionar(produto=[Produto],Marca=haze,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] ignite",
-        "output": "Adicionar(produto=[Produto],Marca=ignite,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] adalya",
-        "output": "Adicionar(produto=[Produto],Marca=adalya,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] smyrna",
-        "output": "Adicionar(produto=[Produto],Marca=smyrna,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] luky",
-        "output": "Adicionar(produto=[Produto],Marca=luky,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] magic",
-        "output": "Adicionar(produto=[Produto],Marca=magic,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] onix",
-        "output": "Adicionar(produto=[Produto],Marca=onix,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] ziggy",
-        "output": "Adicionar(produto=[Produto],Marca=ziggy,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] nay",
-        "output": "Adicionar(produto=[Produto],Marca=nay,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] pimp",
-        "output": "Adicionar(produto=[Produto],Marca=pimp,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] [Sabor] zomo",
-        "output": "Adicionar(produto=[Produto],Marca=zomo,sabor=[Sabor])"
-    },
-    {
-        "input": "Me manda [Produto] uva [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=uva)"
-    },
-    {
-        "input": "Me manda [Produto] cereja [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=cereja)"
-    },
-    {
-        "input": "Me manda [Produto] banaan [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=banaan)"
-    },
-    {
-        "input": "Me manda [Produto] tut-fruit [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=tut-fruit)"
-    },
-    {
-        "input": "Me manda [Produto] maca [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=maca)"
-    },
-    {
-        "input": "Me manda [Produto] pacoca [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=pacoca)"
-    },
-    {
-        "input": "Me manda [Produto] melancia [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=melancia)"
-    },
-    {
-        "input": "Me manda [Produto] limao [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=limao)"
-    },
-    {
-        "input": "Me manda [Produto] 7belo [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=7belo)"
-    },
-    {
-        "input": "Me manda [Produto] berry [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=berry)"
-    },
-    {
-        "input": "Me manda [Produto] fruit [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=fruit)"
-    },
-    {
-        "input": "Me manda [Produto] tut [Marca]",
-        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=tut)"
+        "input": "Tem zomo no estoque?",
+        "output": "Verificar(produto=,Marca=zomo,sabor=)"
     },
     {
         "input": "Quanto custa essencia?",
@@ -928,403 +1328,2211 @@
         "output": "Valor(produto=kit mangueira,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o essencia da [Marca]?",
-        "output": "Valor(produto=essencia,Marca=[Marca],sabor="
+        "input": "Quanto custa narguile?",
+        "output": "Valor(produto=narguile,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o carvao da [Marca]?",
-        "output": "Valor(produto=carvao,Marca=[Marca],sabor="
+        "input": "Quanto custa corpo?",
+        "output": "Valor(produto=corpo,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o aluminio da [Marca]?",
-        "output": "Valor(produto=aluminio,Marca=[Marca],sabor="
+        "input": "Quanto custa prato?",
+        "output": "Valor(produto=prato,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o rosh da [Marca]?",
-        "output": "Valor(produto=rosh,Marca=[Marca],sabor="
+        "input": "Quanto tá o essencia?",
+        "output": "Valor(produto=essencia,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o vaso da [Marca]?",
-        "output": "Valor(produto=vaso,Marca=[Marca],sabor="
+        "input": "Quanto tá o carvao?",
+        "output": "Valor(produto=carvao,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o borracha da [Marca]?",
-        "output": "Valor(produto=borracha,Marca=[Marca],sabor="
+        "input": "Quanto tá o aluminio?",
+        "output": "Valor(produto=aluminio,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o mangueira da [Marca]?",
-        "output": "Valor(produto=mangueira,Marca=[Marca],sabor="
+        "input": "Quanto tá o rosh?",
+        "output": "Valor(produto=rosh,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o kit mangueira da [Marca]?",
-        "output": "Valor(produto=kit mangueira,Marca=[Marca],sabor="
+        "input": "Quanto tá o vaso?",
+        "output": "Valor(produto=vaso,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da haze?",
-        "output": "Valor(produto=[Produto],Marca=haze,sabor="
+        "input": "Quanto tá o borracha?",
+        "output": "Valor(produto=borracha,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da ignite?",
-        "output": "Valor(produto=[Produto],Marca=ignite,sabor="
+        "input": "Quanto tá o mangueira?",
+        "output": "Valor(produto=mangueira,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da adalya?",
-        "output": "Valor(produto=[Produto],Marca=adalya,sabor="
+        "input": "Quanto tá o kit mangueira?",
+        "output": "Valor(produto=kit mangueira,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da smyrna?",
-        "output": "Valor(produto=[Produto],Marca=smyrna,sabor="
+        "input": "Quanto tá o narguile?",
+        "output": "Valor(produto=narguile,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da luky?",
-        "output": "Valor(produto=[Produto],Marca=luky,sabor="
+        "input": "Quanto tá o corpo?",
+        "output": "Valor(produto=corpo,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da magic?",
-        "output": "Valor(produto=[Produto],Marca=magic,sabor="
+        "input": "Quanto tá o prato?",
+        "output": "Valor(produto=prato,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da onix?",
-        "output": "Valor(produto=[Produto],Marca=onix,sabor="
+        "input": "Qual o preço de essencia?",
+        "output": "Valor(produto=essencia,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da ziggy?",
-        "output": "Valor(produto=[Produto],Marca=ziggy,sabor="
+        "input": "Qual o preço de carvao?",
+        "output": "Valor(produto=carvao,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da nay?",
-        "output": "Valor(produto=[Produto],Marca=nay,sabor="
+        "input": "Qual o preço de aluminio?",
+        "output": "Valor(produto=aluminio,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da pimp?",
-        "output": "Valor(produto=[Produto],Marca=pimp,sabor="
+        "input": "Qual o preço de rosh?",
+        "output": "Valor(produto=rosh,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa o [Produto] da zomo?",
-        "output": "Valor(produto=[Produto],Marca=zomo,sabor="
+        "input": "Qual o preço de vaso?",
+        "output": "Valor(produto=vaso,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] essencia?",
-        "output": "Valor(produto=essencia,Marca=[Marca],sabor="
+        "input": "Qual o preço de borracha?",
+        "output": "Valor(produto=borracha,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] carvao?",
-        "output": "Valor(produto=carvao,Marca=[Marca],sabor="
+        "input": "Qual o preço de mangueira?",
+        "output": "Valor(produto=mangueira,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] aluminio?",
-        "output": "Valor(produto=aluminio,Marca=[Marca],sabor="
+        "input": "Qual o preço de kit mangueira?",
+        "output": "Valor(produto=kit mangueira,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] rosh?",
-        "output": "Valor(produto=rosh,Marca=[Marca],sabor="
+        "input": "Qual o preço de narguile?",
+        "output": "Valor(produto=narguile,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] vaso?",
-        "output": "Valor(produto=vaso,Marca=[Marca],sabor="
+        "input": "Qual o preço de corpo?",
+        "output": "Valor(produto=corpo,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] borracha?",
-        "output": "Valor(produto=borracha,Marca=[Marca],sabor="
+        "input": "Qual o preço de prato?",
+        "output": "Valor(produto=prato,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] mangueira?",
-        "output": "Valor(produto=mangueira,Marca=[Marca],sabor="
+        "input": "Quanto sai um essencia hoje?",
+        "output": "Valor(produto=essencia,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] kit mangueira?",
-        "output": "Valor(produto=kit mangueira,Marca=[Marca],sabor="
+        "input": "Quanto sai um carvao hoje?",
+        "output": "Valor(produto=carvao,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a haze [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=haze,sabor="
+        "input": "Quanto sai um aluminio hoje?",
+        "output": "Valor(produto=aluminio,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a ignite [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=ignite,sabor="
+        "input": "Quanto sai um rosh hoje?",
+        "output": "Valor(produto=rosh,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a adalya [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=adalya,sabor="
+        "input": "Quanto sai um vaso hoje?",
+        "output": "Valor(produto=vaso,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a smyrna [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=smyrna,sabor="
+        "input": "Quanto sai um borracha hoje?",
+        "output": "Valor(produto=borracha,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a luky [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=luky,sabor="
+        "input": "Quanto sai um mangueira hoje?",
+        "output": "Valor(produto=mangueira,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a magic [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=magic,sabor="
+        "input": "Quanto sai um kit mangueira hoje?",
+        "output": "Valor(produto=kit mangueira,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a onix [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=onix,sabor="
+        "input": "Quanto sai um narguile hoje?",
+        "output": "Valor(produto=narguile,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a ziggy [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=ziggy,sabor="
+        "input": "Quanto sai um corpo hoje?",
+        "output": "Valor(produto=corpo,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a nay [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=nay,sabor="
+        "input": "Quanto sai um prato hoje?",
+        "output": "Valor(produto=prato,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a pimp [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=pimp,sabor="
+        "input": "Me fala o preço de essencia por favor?",
+        "output": "Valor(produto=essencia,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a zomo [Produto]?",
-        "output": "Valor(produto=[Produto],Marca=zomo,sabor="
+        "input": "Me fala o preço de carvao por favor?",
+        "output": "Valor(produto=carvao,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] essencia [Sabor]?",
-        "output": "Valor(produto=essencia,Marca=[Marca],sabor=[Sabor])"
+        "input": "Me fala o preço de aluminio por favor?",
+        "output": "Valor(produto=aluminio,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] carvao [Sabor]?",
-        "output": "Valor(produto=carvao,Marca=[Marca],sabor=[Sabor])"
+        "input": "Me fala o preço de rosh por favor?",
+        "output": "Valor(produto=rosh,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] aluminio [Sabor]?",
-        "output": "Valor(produto=aluminio,Marca=[Marca],sabor=[Sabor])"
+        "input": "Me fala o preço de vaso por favor?",
+        "output": "Valor(produto=vaso,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] rosh [Sabor]?",
-        "output": "Valor(produto=rosh,Marca=[Marca],sabor=[Sabor])"
+        "input": "Me fala o preço de borracha por favor?",
+        "output": "Valor(produto=borracha,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] vaso [Sabor]?",
-        "output": "Valor(produto=vaso,Marca=[Marca],sabor=[Sabor])"
+        "input": "Me fala o preço de mangueira por favor?",
+        "output": "Valor(produto=mangueira,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] borracha [Sabor]?",
-        "output": "Valor(produto=borracha,Marca=[Marca],sabor=[Sabor])"
+        "input": "Me fala o preço de kit mangueira por favor?",
+        "output": "Valor(produto=kit mangueira,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] mangueira [Sabor]?",
-        "output": "Valor(produto=mangueira,Marca=[Marca],sabor=[Sabor])"
+        "input": "Me fala o preço de narguile por favor?",
+        "output": "Valor(produto=narguile,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a [Marca] kit mangueira [Sabor]?",
-        "output": "Valor(produto=kit mangueira,Marca=[Marca],sabor=[Sabor])"
+        "input": "Me fala o preço de corpo por favor?",
+        "output": "Valor(produto=corpo,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a haze [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=haze,sabor=[Sabor])"
+        "input": "Me fala o preço de prato por favor?",
+        "output": "Valor(produto=prato,Marca=,sabor=)"
     },
     {
-        "input": "Quanto custa a ignite [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=ignite,sabor=[Sabor])"
+        "input": "Tem essencia [Sabor] da [Marca]?",
+        "output": "Verificar(produto=essencia,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a adalya [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=adalya,sabor=[Sabor])"
+        "input": "Tem carvao [Sabor] da [Marca]?",
+        "output": "Verificar(produto=carvao,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a smyrna [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=smyrna,sabor=[Sabor])"
+        "input": "Tem aluminio [Sabor] da [Marca]?",
+        "output": "Verificar(produto=aluminio,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a luky [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=luky,sabor=[Sabor])"
+        "input": "Tem rosh [Sabor] da [Marca]?",
+        "output": "Verificar(produto=rosh,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a magic [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=magic,sabor=[Sabor])"
+        "input": "Tem vaso [Sabor] da [Marca]?",
+        "output": "Verificar(produto=vaso,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a onix [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=onix,sabor=[Sabor])"
+        "input": "Tem borracha [Sabor] da [Marca]?",
+        "output": "Verificar(produto=borracha,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a ziggy [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=ziggy,sabor=[Sabor])"
+        "input": "Tem mangueira [Sabor] da [Marca]?",
+        "output": "Verificar(produto=mangueira,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a nay [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=nay,sabor=[Sabor])"
+        "input": "Tem kit mangueira [Sabor] da [Marca]?",
+        "output": "Verificar(produto=kit mangueira,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a pimp [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=pimp,sabor=[Sabor])"
+        "input": "Tem narguile [Sabor] da [Marca]?",
+        "output": "Verificar(produto=narguile,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a zomo [Produto] [Sabor]?",
-        "output": "Valor(produto=[Produto],Marca=zomo,sabor=[Sabor])"
+        "input": "Tem corpo [Sabor] da [Marca]?",
+        "output": "Verificar(produto=corpo,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] uva?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=uva)"
+        "input": "Tem prato [Sabor] da [Marca]?",
+        "output": "Verificar(produto=prato,Marca=[Marca],sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] cereja?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=cereja)"
+        "input": "Tem [Produto] [Sabor] da haze?",
+        "output": "Verificar(produto=[Produto],Marca=haze,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] banaan?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=banaan)"
+        "input": "Tem [Produto] [Sabor] da ignite?",
+        "output": "Verificar(produto=[Produto],Marca=ignite,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] tut-fruit?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=tut-fruit)"
+        "input": "Tem [Produto] [Sabor] da adalya?",
+        "output": "Verificar(produto=[Produto],Marca=adalya,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] maca?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=maca)"
+        "input": "Tem [Produto] [Sabor] da smyrna?",
+        "output": "Verificar(produto=[Produto],Marca=smyrna,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] pacoca?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=pacoca)"
+        "input": "Tem [Produto] [Sabor] da luky?",
+        "output": "Verificar(produto=[Produto],Marca=luky,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] melancia?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=melancia)"
+        "input": "Tem [Produto] [Sabor] da magic?",
+        "output": "Verificar(produto=[Produto],Marca=magic,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] limao?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=limao)"
+        "input": "Tem [Produto] [Sabor] da onix?",
+        "output": "Verificar(produto=[Produto],Marca=onix,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] 7belo?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=7belo)"
+        "input": "Tem [Produto] [Sabor] da ziggy?",
+        "output": "Verificar(produto=[Produto],Marca=ziggy,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] berry?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=berry)"
+        "input": "Tem [Produto] [Sabor] da nay?",
+        "output": "Verificar(produto=[Produto],Marca=nay,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] fruit?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=fruit)"
+        "input": "Tem [Produto] [Sabor] da pimp?",
+        "output": "Verificar(produto=[Produto],Marca=pimp,sabor=[Sabor])"
     },
     {
-        "input": "Quanto custa a [Marca] [Produto] tut?",
-        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=tut)"
+        "input": "Tem [Produto] [Sabor] da zomo?",
+        "output": "Verificar(produto=[Produto],Marca=zomo,sabor=[Sabor])"
     },
     {
-        "input": "Quero [quantidade] de essencia [Sabor] da [Marca]",
+        "input": "Tem [Produto] uva da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=uva)"
+    },
+    {
+        "input": "Tem [Produto] cereja da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=cereja)"
+    },
+    {
+        "input": "Tem [Produto] banaan da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=banaan)"
+    },
+    {
+        "input": "Tem [Produto] tut-fruit da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut-fruit)"
+    },
+    {
+        "input": "Tem [Produto] maca da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=maca)"
+    },
+    {
+        "input": "Tem [Produto] pacoca da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=pacoca)"
+    },
+    {
+        "input": "Tem [Produto] melancia da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=melancia)"
+    },
+    {
+        "input": "Tem [Produto] limao da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=limao)"
+    },
+    {
+        "input": "Tem [Produto] 7belo da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=7belo)"
+    },
+    {
+        "input": "Tem [Produto] berry da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=berry)"
+    },
+    {
+        "input": "Tem [Produto] fruit da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=fruit)"
+    },
+    {
+        "input": "Tem [Produto] tut da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut)"
+    },
+    {
+        "input": "Consigo comprar essencia com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=essencia,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar carvao com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=carvao,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar aluminio com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=aluminio,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar rosh com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=rosh,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar vaso com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=vaso,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar borracha com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=borracha,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar mangueira com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=mangueira,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar kit mangueira com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=kit mangueira,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar narguile com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=narguile,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar corpo com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=corpo,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar prato com sabor [Sabor] da [Marca]?",
+        "output": "Verificar(produto=prato,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da haze?",
+        "output": "Verificar(produto=[Produto],Marca=haze,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da ignite?",
+        "output": "Verificar(produto=[Produto],Marca=ignite,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da adalya?",
+        "output": "Verificar(produto=[Produto],Marca=adalya,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da smyrna?",
+        "output": "Verificar(produto=[Produto],Marca=smyrna,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da luky?",
+        "output": "Verificar(produto=[Produto],Marca=luky,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da magic?",
+        "output": "Verificar(produto=[Produto],Marca=magic,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da onix?",
+        "output": "Verificar(produto=[Produto],Marca=onix,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da ziggy?",
+        "output": "Verificar(produto=[Produto],Marca=ziggy,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da nay?",
+        "output": "Verificar(produto=[Produto],Marca=nay,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da pimp?",
+        "output": "Verificar(produto=[Produto],Marca=pimp,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor [Sabor] da zomo?",
+        "output": "Verificar(produto=[Produto],Marca=zomo,sabor=[Sabor])"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor uva da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=uva)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor cereja da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=cereja)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor banaan da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=banaan)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor tut-fruit da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut-fruit)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor maca da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=maca)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor pacoca da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=pacoca)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor melancia da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=melancia)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor limao da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=limao)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor 7belo da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=7belo)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor berry da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=berry)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor fruit da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=fruit)"
+    },
+    {
+        "input": "Consigo comprar [Produto] com sabor tut da [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut)"
+    },
+    {
+        "input": "Me manda [quantidade] unidades de essencia sabor [Sabor] da [Marca]",
         "output": "Adicionar(produto=essencia,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de carvao [Sabor] da [Marca]",
+        "input": "Me manda [quantidade] unidades de carvao sabor [Sabor] da [Marca]",
         "output": "Adicionar(produto=carvao,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de aluminio [Sabor] da [Marca]",
+        "input": "Me manda [quantidade] unidades de aluminio sabor [Sabor] da [Marca]",
         "output": "Adicionar(produto=aluminio,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de rosh [Sabor] da [Marca]",
+        "input": "Me manda [quantidade] unidades de rosh sabor [Sabor] da [Marca]",
         "output": "Adicionar(produto=rosh,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de vaso [Sabor] da [Marca]",
+        "input": "Me manda [quantidade] unidades de vaso sabor [Sabor] da [Marca]",
         "output": "Adicionar(produto=vaso,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de borracha [Sabor] da [Marca]",
+        "input": "Me manda [quantidade] unidades de borracha sabor [Sabor] da [Marca]",
         "output": "Adicionar(produto=borracha,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de mangueira [Sabor] da [Marca]",
+        "input": "Me manda [quantidade] unidades de mangueira sabor [Sabor] da [Marca]",
         "output": "Adicionar(produto=mangueira,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de kit mangueira [Sabor] da [Marca]",
+        "input": "Me manda [quantidade] unidades de kit mangueira sabor [Sabor] da [Marca]",
         "output": "Adicionar(produto=kit mangueira,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da haze",
+        "input": "Me manda [quantidade] unidades de narguile sabor [Sabor] da [Marca]",
+        "output": "Adicionar(produto=narguile,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Me manda [quantidade] unidades de corpo sabor [Sabor] da [Marca]",
+        "output": "Adicionar(produto=corpo,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Me manda [quantidade] unidades de prato sabor [Sabor] da [Marca]",
+        "output": "Adicionar(produto=prato,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da haze",
         "output": "Adicionar(produto=[Produto],Marca=haze,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da ignite",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da ignite",
         "output": "Adicionar(produto=[Produto],Marca=ignite,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da adalya",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da adalya",
         "output": "Adicionar(produto=[Produto],Marca=adalya,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da smyrna",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da smyrna",
         "output": "Adicionar(produto=[Produto],Marca=smyrna,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da luky",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da luky",
         "output": "Adicionar(produto=[Produto],Marca=luky,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da magic",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da magic",
         "output": "Adicionar(produto=[Produto],Marca=magic,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da onix",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da onix",
         "output": "Adicionar(produto=[Produto],Marca=onix,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da ziggy",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da ziggy",
         "output": "Adicionar(produto=[Produto],Marca=ziggy,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da nay",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da nay",
         "output": "Adicionar(produto=[Produto],Marca=nay,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da pimp",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da pimp",
         "output": "Adicionar(produto=[Produto],Marca=pimp,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] [Sabor] da zomo",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor [Sabor] da zomo",
         "output": "Adicionar(produto=[Produto],Marca=zomo,sabor=[Sabor],quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] uva da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor uva da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=uva,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] cereja da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor cereja da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=cereja,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] banaan da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor banaan da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=banaan,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] tut-fruit da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor tut-fruit da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=tut-fruit,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] maca da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor maca da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=maca,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] pacoca da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor pacoca da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=pacoca,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] melancia da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor melancia da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=melancia,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] limao da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor limao da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=limao,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] 7belo da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor 7belo da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=7belo,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] berry da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor berry da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=berry,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] fruit da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor fruit da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=fruit,quantidade=[quantidade])"
     },
     {
-        "input": "Quero [quantidade] de [Produto] tut da [Marca]",
+        "input": "Me manda [quantidade] unidades de [Produto] sabor tut da [Marca]",
         "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=tut,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero saber o preço de essencia da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=essencia,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de carvao da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=carvao,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de aluminio da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=aluminio,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de rosh da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=rosh,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de vaso da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=vaso,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de borracha da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=borracha,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de mangueira da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=mangueira,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de kit mangueira da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=kit mangueira,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de narguile da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=narguile,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de corpo da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=corpo,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de prato da [Marca] com sabor [Sabor]",
+        "output": "Valor(produto=prato,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da haze com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=haze,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da ignite com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=ignite,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da adalya com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=adalya,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da smyrna com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=smyrna,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da luky com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=luky,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da magic com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=magic,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da onix com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=onix,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da ziggy com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=ziggy,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da nay com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=nay,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da pimp com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=pimp,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da zomo com sabor [Sabor]",
+        "output": "Valor(produto=[Produto],Marca=zomo,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor uva",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=uva)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor cereja",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=cereja)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor banaan",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=banaan)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor tut-fruit",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=tut-fruit)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor maca",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=maca)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor pacoca",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=pacoca)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor melancia",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=melancia)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor limao",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=limao)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor 7belo",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=7belo)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor berry",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=berry)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor fruit",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=fruit)"
+    },
+    {
+        "input": "Quero saber o preço de [Produto] da [Marca] com sabor tut",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=tut)"
+    },
+    {
+        "input": "Vocês têm essencia com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=essencia,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm carvao com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=carvao,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm aluminio com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=aluminio,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm rosh com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=rosh,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm vaso com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=vaso,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm borracha com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=borracha,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm mangueira com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=mangueira,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm kit mangueira com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=kit mangueira,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm narguile com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=narguile,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm corpo com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=corpo,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm prato com sabor [Sabor] fabricado pela [Marca]?",
+        "output": "Verificar(produto=prato,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela haze?",
+        "output": "Verificar(produto=[Produto],Marca=haze,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela ignite?",
+        "output": "Verificar(produto=[Produto],Marca=ignite,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela adalya?",
+        "output": "Verificar(produto=[Produto],Marca=adalya,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela smyrna?",
+        "output": "Verificar(produto=[Produto],Marca=smyrna,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela luky?",
+        "output": "Verificar(produto=[Produto],Marca=luky,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela magic?",
+        "output": "Verificar(produto=[Produto],Marca=magic,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela onix?",
+        "output": "Verificar(produto=[Produto],Marca=onix,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela ziggy?",
+        "output": "Verificar(produto=[Produto],Marca=ziggy,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela nay?",
+        "output": "Verificar(produto=[Produto],Marca=nay,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela pimp?",
+        "output": "Verificar(produto=[Produto],Marca=pimp,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor [Sabor] fabricado pela zomo?",
+        "output": "Verificar(produto=[Produto],Marca=zomo,sabor=[Sabor])"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor uva fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=uva)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor cereja fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=cereja)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor banaan fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=banaan)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor tut-fruit fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut-fruit)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor maca fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=maca)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor pacoca fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=pacoca)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor melancia fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=melancia)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor limao fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=limao)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor 7belo fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=7belo)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor berry fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=berry)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor fruit fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=fruit)"
+    },
+    {
+        "input": "Vocês têm [Produto] com sabor tut fabricado pela [Marca]?",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para essencia da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=essencia, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para carvao da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=carvao, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para aluminio da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=aluminio, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para rosh da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=rosh, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para vaso da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=vaso, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para borracha da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=borracha, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para mangueira da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=mangueira, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para kit mangueira da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=kit mangueira, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para narguile da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=narguile, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para corpo da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=corpo, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para prato da [Marca]?",
+        "output": "Entrega(prazo=?, valor=?, produto=prato, marca=[Marca])"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da haze?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=haze)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da ignite?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=ignite)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da adalya?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=adalya)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da smyrna?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=smyrna)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da luky?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=luky)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da magic?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=magic)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da onix?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=onix)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da ziggy?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=ziggy)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da nay?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=nay)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da pimp?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=pimp)"
+    },
+    {
+        "input": "Qual é o prazo e o valor da entrega para [Produto] da zomo?",
+        "output": "Entrega(prazo=?, valor=?, produto=[Produto], marca=zomo)"
+    },
+    {
+        "input": "Quero saber se o essencia sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=essencia,Marca=[Marca],sabor=[Sabor]), Valor(produto=essencia,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o carvao sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=carvao,Marca=[Marca],sabor=[Sabor]), Valor(produto=carvao,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o aluminio sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=aluminio,Marca=[Marca],sabor=[Sabor]), Valor(produto=aluminio,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o rosh sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=rosh,Marca=[Marca],sabor=[Sabor]), Valor(produto=rosh,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o vaso sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=vaso,Marca=[Marca],sabor=[Sabor]), Valor(produto=vaso,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o borracha sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=borracha,Marca=[Marca],sabor=[Sabor]), Valor(produto=borracha,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o mangueira sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=mangueira,Marca=[Marca],sabor=[Sabor]), Valor(produto=mangueira,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o kit mangueira sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=kit mangueira,Marca=[Marca],sabor=[Sabor]), Valor(produto=kit mangueira,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o narguile sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=narguile,Marca=[Marca],sabor=[Sabor]), Valor(produto=narguile,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o corpo sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=corpo,Marca=[Marca],sabor=[Sabor]), Valor(produto=corpo,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o prato sabor [Sabor] da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=prato,Marca=[Marca],sabor=[Sabor]), Valor(produto=prato,Marca=[Marca],sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da haze está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=haze,sabor=[Sabor]), Valor(produto=[Produto],Marca=haze,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da ignite está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=ignite,sabor=[Sabor]), Valor(produto=[Produto],Marca=ignite,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da adalya está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=adalya,sabor=[Sabor]), Valor(produto=[Produto],Marca=adalya,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da smyrna está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=smyrna,sabor=[Sabor]), Valor(produto=[Produto],Marca=smyrna,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da luky está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=luky,sabor=[Sabor]), Valor(produto=[Produto],Marca=luky,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da magic está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=magic,sabor=[Sabor]), Valor(produto=[Produto],Marca=magic,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da onix está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=onix,sabor=[Sabor]), Valor(produto=[Produto],Marca=onix,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da ziggy está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=ziggy,sabor=[Sabor]), Valor(produto=[Produto],Marca=ziggy,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da nay está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=nay,sabor=[Sabor]), Valor(produto=[Produto],Marca=nay,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da pimp está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=pimp,sabor=[Sabor]), Valor(produto=[Produto],Marca=pimp,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor [Sabor] da zomo está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=zomo,sabor=[Sabor]), Valor(produto=[Produto],Marca=zomo,sabor=[Sabor])"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor uva da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=uva), Valor(produto=[Produto],Marca=[Marca],sabor=uva)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor cereja da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=cereja), Valor(produto=[Produto],Marca=[Marca],sabor=cereja)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor banaan da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=banaan), Valor(produto=[Produto],Marca=[Marca],sabor=banaan)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor tut-fruit da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut-fruit), Valor(produto=[Produto],Marca=[Marca],sabor=tut-fruit)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor maca da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=maca), Valor(produto=[Produto],Marca=[Marca],sabor=maca)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor pacoca da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=pacoca), Valor(produto=[Produto],Marca=[Marca],sabor=pacoca)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor melancia da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=melancia), Valor(produto=[Produto],Marca=[Marca],sabor=melancia)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor limao da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=limao), Valor(produto=[Produto],Marca=[Marca],sabor=limao)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor 7belo da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=7belo), Valor(produto=[Produto],Marca=[Marca],sabor=7belo)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor berry da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=berry), Valor(produto=[Produto],Marca=[Marca],sabor=berry)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor fruit da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=fruit), Valor(produto=[Produto],Marca=[Marca],sabor=fruit)"
+    },
+    {
+        "input": "Quero saber se o [Produto] sabor tut da [Marca] está disponível e qual o preço",
+        "output": "Verificar(produto=[Produto],Marca=[Marca],sabor=tut), Valor(produto=[Produto],Marca=[Marca],sabor=tut)"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de essencia da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=essencia,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de carvao da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=carvao,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de aluminio da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=aluminio,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de rosh da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=rosh,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de vaso da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=vaso,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de borracha da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=borracha,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de mangueira da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=mangueira,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de kit mangueira da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=kit mangueira,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de narguile da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=narguile,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de corpo da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=corpo,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de prato da [Marca] com sabor [Sabor]?",
+        "output": "Valor(produto=prato,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da haze com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=haze,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da ignite com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=ignite,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da adalya com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=adalya,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da smyrna com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=smyrna,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da luky com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=luky,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da magic com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=magic,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da onix com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=onix,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da ziggy com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=ziggy,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da nay com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=nay,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da pimp com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=pimp,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da zomo com sabor [Sabor]?",
+        "output": "Valor(produto=[Produto],Marca=zomo,sabor=[Sabor],quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor uva?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=uva,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor cereja?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=cereja,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor banaan?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=banaan,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor tut-fruit?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=tut-fruit,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor maca?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=maca,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor pacoca?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=pacoca,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor melancia?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=melancia,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor limao?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=limao,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor 7belo?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=7belo,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor berry?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=berry,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor fruit?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=fruit,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quanto custa [quantidade] unidades de [Produto] da [Marca] com sabor tut?",
+        "output": "Valor(produto=[Produto],Marca=[Marca],sabor=tut,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de essencia sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=essencia,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de carvao sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=carvao,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de aluminio sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=aluminio,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de rosh sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=rosh,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de vaso sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=vaso,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de borracha sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=borracha,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de mangueira sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=mangueira,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de kit mangueira sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=kit mangueira,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de narguile sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=narguile,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de corpo sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=corpo,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de prato sabor [Sabor] da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=prato,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da haze ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=haze,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da ignite ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=ignite,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da adalya ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=adalya,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da smyrna ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=smyrna,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da luky ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=luky,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da magic ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=magic,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da onix ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=onix,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da ziggy ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=ziggy,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da nay ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=nay,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da pimp ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=pimp,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor [Sabor] da zomo ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=zomo,sabor=[Sabor],quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor uva da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=uva,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor cereja da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=cereja,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor banaan da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=banaan,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor tut-fruit da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=tut-fruit,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor maca da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=maca,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor pacoca da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=pacoca,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor melancia da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=melancia,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor limao da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=limao,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor 7belo da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=7belo,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor berry da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=berry,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor fruit da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=fruit,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Posso adicionar [quantidade] de [Produto] sabor tut da [Marca] ao meu pedido com entrega?",
+        "output": "Adicionar(produto=[Produto],Marca=[Marca],sabor=tut,quantidade=[quantidade]), Entrega(info=?)"
+    },
+    {
+        "input": "Vocês entregam essencia da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=essencia,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam carvao da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=carvao,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam aluminio da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=aluminio,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam rosh da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=rosh,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam vaso da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=vaso,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam borracha da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=borracha,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam mangueira da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=mangueira,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam kit mangueira da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=kit mangueira,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam narguile da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=narguile,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam corpo da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=corpo,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam prato da [Marca] com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=prato,Marca=[Marca],sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da haze com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=haze,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da ignite com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=ignite,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da adalya com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=adalya,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da smyrna com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=smyrna,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da luky com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=luky,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da magic com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=magic,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da onix com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=onix,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da ziggy com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=ziggy,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da nay com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=nay,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da pimp com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=pimp,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da zomo com sabor [Sabor] fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=zomo,sabor=[Sabor],regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor uva fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=uva,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor cereja fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=cereja,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor banaan fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=banaan,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor tut-fruit fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=tut-fruit,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor maca fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=maca,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor pacoca fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=pacoca,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor melancia fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=melancia,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor limao fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=limao,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor 7belo fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=7belo,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor berry fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=berry,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor fruit fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=fruit,regiao=fora_estado)"
+    },
+    {
+        "input": "Vocês entregam [Produto] da [Marca] com sabor tut fora do estado?",
+        "output": "Entrega(produto=[Produto],Marca=[Marca],sabor=tut,regiao=fora_estado)"
+    },
+    {
+        "input": "Me manda uma essencia",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma carvao",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma aluminio",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma rosh",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma vaso",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma borracha",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma mangueira",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma kit mangueira",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma narguile",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma corpo",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda uma prato",
+        "output": "Adicionar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um essencia pra mim?",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um carvao pra mim?",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um aluminio pra mim?",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um rosh pra mim?",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um vaso pra mim?",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um borracha pra mim?",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um mangueira pra mim?",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um kit mangueira pra mim?",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um narguile pra mim?",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um corpo pra mim?",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Adiciona um prato pra mim?",
+        "output": "Adicionar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um essencia",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um carvao",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um aluminio",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um rosh",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um vaso",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um borracha",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um mangueira",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um kit mangueira",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um narguile",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um corpo",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero comprar um prato",
+        "output": "Adicionar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse essencia",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse carvao",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse aluminio",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse rosh",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse vaso",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse borracha",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse mangueira",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse kit mangueira",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse narguile",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse corpo",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Me manda logo esse prato",
+        "output": "Adicionar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um essencia pra mim?",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um carvao pra mim?",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um aluminio pra mim?",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um rosh pra mim?",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um vaso pra mim?",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um borracha pra mim?",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um mangueira pra mim?",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um kit mangueira pra mim?",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um narguile pra mim?",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um corpo pra mim?",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Pode separar um prato pra mim?",
+        "output": "Adicionar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um essencia",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um carvao",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um aluminio",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um rosh",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um vaso",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um borracha",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um mangueira",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um kit mangueira",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um narguile",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um corpo",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Gostaria de pedir um prato",
+        "output": "Adicionar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um essencia no meu pedido",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um carvao no meu pedido",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um aluminio no meu pedido",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um rosh no meu pedido",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um vaso no meu pedido",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um borracha no meu pedido",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um mangueira no meu pedido",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um kit mangueira no meu pedido",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um narguile no meu pedido",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um corpo no meu pedido",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=)"
+    },
+    {
+        "input": "Coloca um prato no meu pedido",
+        "output": "Adicionar(produto=prato,Marca=,sabor=)"
+    },
+    {
+        "input": "Quero [quantidade] de essencia",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de carvao",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de aluminio",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de rosh",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de vaso",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de borracha",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de mangueira",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de kit mangueira",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de narguile",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de corpo",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero [quantidade] de prato",
+        "output": "Adicionar(produto=prato,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] essencia pra mim",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] carvao pra mim",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] aluminio pra mim",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] rosh pra mim",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] vaso pra mim",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] borracha pra mim",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] mangueira pra mim",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] kit mangueira pra mim",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] narguile pra mim",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] corpo pra mim",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Adiciona [quantidade] prato pra mim",
+        "output": "Adicionar(produto=prato,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] essencia",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] carvao",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] aluminio",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] rosh",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] vaso",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] borracha",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] mangueira",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] kit mangueira",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] narguile",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] corpo",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Gostaria de pedir [quantidade] prato",
+        "output": "Adicionar(produto=prato,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] essencia?",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] carvao?",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] aluminio?",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] rosh?",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] vaso?",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] borracha?",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] mangueira?",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] kit mangueira?",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] narguile?",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] corpo?",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Posso comprar [quantidade] prato?",
+        "output": "Adicionar(produto=prato,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de essencia no pedido",
+        "output": "Adicionar(produto=essencia,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de carvao no pedido",
+        "output": "Adicionar(produto=carvao,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de aluminio no pedido",
+        "output": "Adicionar(produto=aluminio,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de rosh no pedido",
+        "output": "Adicionar(produto=rosh,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de vaso no pedido",
+        "output": "Adicionar(produto=vaso,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de borracha no pedido",
+        "output": "Adicionar(produto=borracha,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de mangueira no pedido",
+        "output": "Adicionar(produto=mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de kit mangueira no pedido",
+        "output": "Adicionar(produto=kit mangueira,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de narguile no pedido",
+        "output": "Adicionar(produto=narguile,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de corpo no pedido",
+        "output": "Adicionar(produto=corpo,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Coloca [quantidade] unidades de prato no pedido",
+        "output": "Adicionar(produto=prato,Marca=,sabor=,quantidade=[quantidade])"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de essencia sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=essencia,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de carvao sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=carvao,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de aluminio sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=aluminio,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de rosh sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=rosh,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de vaso sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=vaso,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de borracha sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=borracha,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de mangueira sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=mangueira,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de kit mangueira sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=kit mangueira,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de narguile sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=narguile,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de corpo sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=corpo,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de prato sabor [Sabor] da [Marca]",
+        "output": "Pedido(produto=prato,Marca=[Marca],sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da haze",
+        "output": "Pedido(produto=[Produto],Marca=haze,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da ignite",
+        "output": "Pedido(produto=[Produto],Marca=ignite,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da adalya",
+        "output": "Pedido(produto=[Produto],Marca=adalya,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da smyrna",
+        "output": "Pedido(produto=[Produto],Marca=smyrna,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da luky",
+        "output": "Pedido(produto=[Produto],Marca=luky,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da magic",
+        "output": "Pedido(produto=[Produto],Marca=magic,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da onix",
+        "output": "Pedido(produto=[Produto],Marca=onix,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da ziggy",
+        "output": "Pedido(produto=[Produto],Marca=ziggy,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da nay",
+        "output": "Pedido(produto=[Produto],Marca=nay,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da pimp",
+        "output": "Pedido(produto=[Produto],Marca=pimp,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor [Sabor] da zomo",
+        "output": "Pedido(produto=[Produto],Marca=zomo,sabor=[Sabor],quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor uva da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=uva,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor cereja da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=cereja,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor banaan da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=banaan,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor tut-fruit da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=tut-fruit,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor maca da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=maca,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor pacoca da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=pacoca,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor melancia da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=melancia,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor limao da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=limao,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor 7belo da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=7belo,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor berry da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=berry,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor fruit da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=fruit,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Quero saber o valor total e detalhado por item para [quantidade] unidades de [Produto] sabor tut da [Marca]",
+        "output": "Pedido(produto=[Produto],Marca=[Marca],sabor=tut,quantidade=[quantidade],detalhamento_valores=?)"
+    },
+    {
+        "input": "Se eu comprar mais essencia, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=essencia,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais carvao, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=carvao,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais aluminio, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=aluminio,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais rosh, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=rosh,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais vaso, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=vaso,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais borracha, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=borracha,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais mangueira, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=mangueira,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais kit mangueira, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=kit mangueira,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais narguile, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=narguile,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais corpo, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=corpo,frete_gratis_condicional=?)"
+    },
+    {
+        "input": "Se eu comprar mais prato, vocês oferecem frete grátis?",
+        "output": "Pedido(produto=prato,frete_gratis_condicional=?)"
     }
 ]
